@@ -1,0 +1,68 @@
+.navBg {
+	background-color: #333333;
+}
+
+#name {
+	background-color: teal;
+}
+
+h3 {
+	margin:0;
+	padding:0;
+	color:white;
+	font-family:Georgia;
+}
+
+body {
+	background-image: url("../images/green_cup.png");
+}
+
+p {
+	margin:0;
+	color:white;
+	border-right:solid white 1px;
+	margin-left:1px;
+	padding-right:15px;
+	font-family:Arial;
+}
+
+.noBorder {
+	border:none;
+}
+
+.tealHeader {
+	color:teal;
+	border-bottom:solid black 3px;
+}
+
+.smallerImg {
+	width:200px;
+	height:200px;
+	margin-bottom:15px;
+}
+
+.bgWhite {
+	background-color:white;
+}
+
+.bio {
+	color:black;
+	font-size:130%;
+}
+
+.imgLink {
+	width:50px;
+	height:50px;
+	margin-bottom:15px;
+}
+
+input {
+	margin-bottom:10px;
+}
+
+.smallerImg1 {
+	width:200px;
+	height:200px;
+	border:solid black 1px;
+	margin-bottom:15px;
+}
