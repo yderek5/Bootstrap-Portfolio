@@ -60,6 +60,11 @@ input {
 	margin-bottom:10px;
 }
 
+.portfolio-img {
+	width:100%;
+	border: solid black 1px;
+}
+
 .smallerImg1 {
 	width:200px;
 	height:200px;
